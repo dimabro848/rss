@@ -1,4 +1,0 @@
-Flask
-snscrape
-feedgen
-gunicorn
